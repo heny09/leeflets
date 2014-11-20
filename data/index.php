@@ -1,1 +1,3 @@
-<?php // Suppress directory listing.
+<?php 
+
+?>
